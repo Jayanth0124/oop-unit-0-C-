@@ -1,3 +1,4 @@
+//this program is done by jayanth
 #include <iostream>  
 using namespace std;  
 int main()  
